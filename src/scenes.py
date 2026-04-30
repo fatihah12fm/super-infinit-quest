@@ -137,7 +137,7 @@ class MenuScene(Scene):
             ("Collect ⭐ × 5", "Win!"),
         ]
         c.create_rectangle(200, 280, 600, 420,
-                           fill="#00000066", outline=C["inf_outer"],
+                           fill="#111122", outline=C["inf_outer"],
                            width=2)
         c.create_text(SCREEN_W // 2, 296,
                       text="─── CONTROLS ───",
@@ -156,7 +156,7 @@ class MenuScene(Scene):
 
         # Math difficulty table
         c.create_rectangle(140, 430, 660, 510,
-                           fill="#00000055", outline="#334", width=1)
+                           fill="#0d1020", outline="#334", width=1)
         c.create_text(SCREEN_W // 2, 446, text="Math Difficulty by Enemy",
                       font=("Arial", 10, "bold"), fill=C["text_lo"])
         table = [
