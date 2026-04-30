@@ -152,7 +152,7 @@ class Renderer:
         c = self.canvas
         # Background strip
         c.create_rectangle(0, 0, SCREEN_W, 54,
-                           fill="#00000088", outline="")
+                           fill="#0a0a18", outline="")
 
         # Score
         c.create_text(12, 8, anchor="nw",
@@ -244,7 +244,7 @@ class Renderer:
 
         # Dim background
         c.create_rectangle(0, 0, SCREEN_W, SCREEN_H,
-                           fill="#00000099", outline="")
+                           fill="#0d0d1a", outline="")
 
         # Dialog box
         bx, by, bw, bh = 160, 140, 480, 280
