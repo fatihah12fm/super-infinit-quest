@@ -63,6 +63,10 @@ LEVEL_LENGTH = 5000
 SCREEN_W = 800
 SCREEN_H = 600
 TOTAL_STARS = 5
+LEVEL_LENGTH = 5000
+SCREEN_W = 800
+SCREEN_H = 600
+TOTAL_STARS = 5
 
 
 # ── Base Entity ───────────────────────────────────────────────────────────────
