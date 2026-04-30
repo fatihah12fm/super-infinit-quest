@@ -59,6 +59,10 @@ GRAVITY = 0.55
 JUMP_FORCE = -13
 MOVE_SPEED = 4
 GROUND_Y = 500     # pixel Y of the main ground
+LEVEL_LENGTH = 5000
+SCREEN_W = 800
+SCREEN_H = 600
+TOTAL_STARS = 5
 
 
 # ── Base Entity ───────────────────────────────────────────────────────────────
